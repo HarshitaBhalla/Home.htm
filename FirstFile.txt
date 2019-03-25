@@ -1,0 +1,3 @@
+here are some changes
+
+I want to get the changes merged to file1.txt
